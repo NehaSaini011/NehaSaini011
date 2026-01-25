@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 🎓 **Information Technology Student | Software Engineering Placement Aspirant**
 💡 Strong focus on **Data Structures & Algorithms** and **Backend Development**
-💻 Comfortable with **Java, Python ** | Actively preparing for **technical interviews**
+💻 Comfortable with **Java, Python** | Actively preparing for **technical interviews**
 
 ---
 
