@@ -63,7 +63,7 @@ I'm a 3rd-year engineering student who learns by building — currently deep-div
 <!-- <p align="left">
   <a href="https://github.com/NehaSaini011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <!-- Add your LinkedIn / X / email badges here -->
-<!-- </p> --> -->
+<!-- </p> --> 
 <p align="left">
   <a href="https://github.com/NehaSaini011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/neha-saini-3a6527329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
