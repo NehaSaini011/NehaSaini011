@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="debugging-ltr.svg" alt="DEBUGGING" />
+</p>
 <h1 align="center">Hi, I'm Neha 👋</h1>
 <h3 align="center">Pre-Final Year Engineering Student @ IGDTUW | Backend & SRE Enthusiast</h3>
 
