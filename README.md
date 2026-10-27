@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="panel.svg" width="100%" alt="Neha Saini — Kubernetes contributor (SIG Node, SIG Release). Now: debugging kubernetes#141036, an arm64 CI flake. Merged: kubernetes/community#9083, apache/maven. Smart India Hackathon 2025 National Finalist. Stack: Java, Go, Spring Boot, PostgreSQL, Kubernetes, Linux. B.Tech CSE, IGDTUW, 2028. Open to backend / SRE internships." />
+  <img src="panel.svg" width="100%" alt="Neha Saini — Kubernetes contributor (SIG Node, SIG Release). Now: debugging kubernetes#141036, an arm64 CI flake. Merged: kubernetes/community#9083, apache/maven. Smart India Hackathon 2025 National Finalist. Stack: Java, Go, Spring Boot, PostgreSQL, Kubernetes, Linux. B.Tech IT, IGDTUW, 2028. Open to backend / SRE internships." />
 </p>
 
 <p align="center">
